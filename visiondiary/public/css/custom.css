@@ -1,0 +1,27 @@
+has-error{
+    border-color:red;
+}
+.asterisk
+{
+    color:red;
+}
+
+body.login-design {
+    background-image: url('../images/bg.png');
+}
+.form-body {
+    background-color: #fff;
+    padding: 40px;
+    border: 2px solid #ccc;
+    box-shadow: 7px 6px 30px rgba(0, 0, 0, 0.42);
+    margin-top: 70px;
+}
+.login-info .form-group {
+    margin: 0px;
+}
+.row.expand_row {
+    margin-top: 15px;
+}
+ul.dropdown-user.profile_right_menu li {
+    padding: 5px !important;
+}
